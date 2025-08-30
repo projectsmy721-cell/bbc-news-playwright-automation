@@ -1,0 +1,16 @@
+{
+  "users": {
+    "admin": {
+      "username": "muhammedashikd12@gmail.com",
+      "role": "Ashik@123"
+    },
+    "regular": {
+      "username": "user@example.com",
+      "role": "user"
+    }
+  },
+  "urls": {
+    "login": "/login",
+    "dashboard": "/dashboard"
+  }
+}
